@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.mohitkh7.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.mohitkh7.xknotpvsp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Hello World</name>
     <description>
-        This is my First App.
+        This is app version of game Tic Tac Toe in a Player vs Player Mode
     </description>
     <author email="mohit" href="http://github.com/mohitkh7">
         Mohit Khandelwal
